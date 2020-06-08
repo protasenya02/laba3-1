@@ -54,6 +54,7 @@ Begin
 end.
 ```
 ## Дополнительное задание 
+![alt text](Screen2.png "Условие задания")
 
 ```Delphi
 program laba3dop11;
