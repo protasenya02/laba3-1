@@ -2,6 +2,7 @@
 
 ![alt text](Screen1.png "Условие задания")
 
+> Dephi
 ```Delphi
 Program laba3;
 
