@@ -1,6 +1,6 @@
 # **Задание 26**
 
-![alt text](Screen.png "Условие задания")
+![alt text](Screen1.png "Условие задания")
 
 ```Delphi
 Program laba3;
